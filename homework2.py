@@ -128,7 +128,7 @@ class sortTimer:
         print("SIZE = 10 Sort:")
         print("Unsorted:", l)
         self.sorter.sort(l)
-        print("Sorted:", l, "\n")
+        print("Sorted:", l)
         
     def test_two(self, size, big, type):
         if type == "Integer":
@@ -140,7 +140,7 @@ class sortTimer:
         t0 = time.time()
         self.sorter.sort(l)
         tf = time.time()
-        print("SIZE =", size, ": ", tf - t0)
+        print(type, "Sort,", "SIZE =", size, ": ", tf - t0)
     
 if main:
     
@@ -158,3 +158,21 @@ if main:
         print("\n******************", type, "Sorts ******************\n")
         for i in range(3):
             sortTimer.sort_and_time(type)
+
+
+# Tests that were run to comply with items 4 and 5 in the assignment reqs:
+
+# Integer sort tests
+# sortTimer().test_one("Integer")
+# sortTimer().test_two(10000, 99999, "Integer")
+# sortTimer().test_two(100000, 999999, "Integer")
+
+# Real number sort tests
+# sortTimer().test_one("Real Number")
+# sortTimer().test_two(10000, 99999, "Real Number")
+# sortTimer().test_two(100000, 999999, "Real Number")
+
+# String sort tests
+# sortTimer().test_one("String")
+# sortTimer().test_two(10000, 99999, "String")
+# sortTimer().test_two(100000, 999999, "String")
