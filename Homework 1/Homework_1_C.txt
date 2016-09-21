@@ -1,0 +1,32 @@
+7. How would you map a key to a value as in the previous problem when 
+the dictionary was first created as an empty dictionary? Write a short 
+piece of code to create an empty dictionary and then map "Kent" to 
+"Denise" and "Steve" to "Lindy".
+
+    newDict = {}
+    newDict["Kent"] = "Denise"
+    newDict["Steve"] = "Lindy"
+
+8. What method is called when x < y is written? In which class is the 
+method a member? In other words, if you were presented with x < y in 
+a program, how would you figure out which class you needed to examine 
+to understand exactly what x < y meant?
+
+    The __lt__(self,y) method of x is called when x < y is written.
+    This method is a member of the class of which x is a member. In
+    order to understand exactly what x < y  meant, it is necessary
+    to examine the class definition of x to see how __lt__ is defined.
+
+9. What method is called when x << y is written?
+
+    The __lshift__(self,y) method is called when x << y is written.
+
+12. Polymorphism and Operator Overloading are closely related concepts.
+Can you briefly explain how the two concepts are similar and how Python
+supports them?
+
+    Operator overloading is a kind of polymorphism, in that operators
+    can be implemented with different behaviors depending on the 
+    class in which they are defined. Python supports this by allowing
+    different methods with the same name to be defined in different
+    classes.

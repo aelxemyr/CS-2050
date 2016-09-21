@@ -1,0 +1,18 @@
+<Graph>
+<Vertices>
+<Vertex vertexId="0" label="1"/>
+<Vertex vertexId="1" label="2"/>
+<Vertex vertexId="2" label="3"/>
+<Vertex vertexId="3" label="4"/>
+<Vertex vertexId="4" label="5"/>
+</Vertices>
+<Edges>
+<Edge head="2" tail="0" weight="1.6"/>
+<Edge head="0" tail="1" weight="3.2"/>
+<Edge head="3" tail="2" weight="1.5"/>
+<Edge head="4" tail="2" weight="1.2"/>
+<Edge head="1" tail="3" weight="5.3"/>
+<Edge head="0" tail="4" weight="8.9"/>
+<Edge head="3" tail="4" weight="6.7"/>
+</Edges>
+</Graph>

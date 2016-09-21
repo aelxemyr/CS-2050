@@ -1,0 +1,690 @@
+Bennett Alex Myers
+CS 2050 - Homework 3
+
+HASHING ALGORITHM RESULTS:
+
+Input File: hw3a.txt
+Number of Integers: 10000
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 1001
+    Bucket 2: 1030
+    Bucket 3: 1056
+    Bucket 4: 1006
+    Bucket 5: 1020
+    Bucket 6: 995
+    Bucket 7: 960
+    Bucket 8: 958
+    Bucket 9: 1008
+    Bucket 10: 966
+
+Input File: hw3b.txt
+Number of Integers: 55000
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 5423
+    Bucket 2: 5447
+    Bucket 3: 5422
+    Bucket 4: 5515
+    Bucket 5: 5513
+    Bucket 6: 5534
+    Bucket 7: 5503
+    Bucket 8: 5517
+    Bucket 9: 5481
+    Bucket 10: 5645
+
+Input File: hw3c.txt
+Number of Integers: 11011
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 1060
+    Bucket 2: 1056
+    Bucket 3: 1149
+    Bucket 4: 1084
+    Bucket 5: 1119
+    Bucket 6: 1089
+    Bucket 7: 1081
+    Bucket 8: 1102
+    Bucket 9: 1121
+    Bucket 10: 1150
+
+Input File: hw3a.txt
+Number of Integers: 10000
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 501
+    Bucket 2: 515
+    Bucket 3: 560
+    Bucket 4: 509
+    Bucket 5: 522
+    Bucket 6: 470
+    Bucket 7: 467
+    Bucket 8: 497
+    Bucket 9: 490
+    Bucket 10: 441
+    Bucket 11: 500
+    Bucket 12: 515
+    Bucket 13: 496
+    Bucket 14: 497
+    Bucket 15: 498
+    Bucket 16: 525
+    Bucket 17: 493
+    Bucket 18: 461
+    Bucket 19: 518
+    Bucket 20: 525
+
+Input File: hw3b.txt
+Number of Integers: 55000
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 2639
+    Bucket 2: 2683
+    Bucket 3: 2730
+    Bucket 4: 2728
+    Bucket 5: 2786
+    Bucket 6: 2768
+    Bucket 7: 2693
+    Bucket 8: 2754
+    Bucket 9: 2744
+    Bucket 10: 2799
+    Bucket 11: 2784
+    Bucket 12: 2764
+    Bucket 13: 2692
+    Bucket 14: 2787
+    Bucket 15: 2727
+    Bucket 16: 2766
+    Bucket 17: 2810
+    Bucket 18: 2763
+    Bucket 19: 2737
+    Bucket 20: 2846
+
+Input File: hw3c.txt
+Number of Integers: 11011
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 511
+    Bucket 2: 532
+    Bucket 3: 564
+    Bucket 4: 530
+    Bucket 5: 560
+    Bucket 6: 573
+    Bucket 7: 525
+    Bucket 8: 529
+    Bucket 9: 550
+    Bucket 10: 585
+    Bucket 11: 549
+    Bucket 12: 524
+    Bucket 13: 585
+    Bucket 14: 554
+    Bucket 15: 559
+    Bucket 16: 516
+    Bucket 17: 556
+    Bucket 18: 573
+    Bucket 19: 571
+    Bucket 20: 565
+
+Input File: hw3a.txt
+Number of Integers: 10000
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 359
+    Bucket 2: 345
+    Bucket 3: 376
+    Bucket 4: 348
+    Bucket 5: 346
+    Bucket 6: 354
+    Bucket 7: 303
+    Bucket 8: 349
+    Bucket 9: 346
+    Bucket 10: 308
+    Bucket 11: 293
+    Bucket 12: 328
+    Bucket 13: 348
+    Bucket 14: 314
+    Bucket 15: 329
+    Bucket 16: 345
+    Bucket 17: 348
+    Bucket 18: 300
+    Bucket 19: 330
+    Bucket 20: 328
+    Bucket 21: 349
+    Bucket 22: 357
+    Bucket 23: 332
+    Bucket 24: 344
+    Bucket 25: 345
+    Bucket 26: 296
+    Bucket 27: 309
+    Bucket 28: 309
+    Bucket 29: 332
+    Bucket 30: 330
+
+Input File: hw3b.txt
+Number of Integers: 55000
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 1867
+    Bucket 2: 1798
+    Bucket 3: 1806
+    Bucket 4: 1790
+    Bucket 5: 1820
+    Bucket 6: 1801
+    Bucket 7: 1864
+    Bucket 8: 1811
+    Bucket 9: 1778
+    Bucket 10: 1901
+    Bucket 11: 1789
+    Bucket 12: 1787
+    Bucket 13: 1833
+    Bucket 14: 1849
+    Bucket 15: 1816
+    Bucket 16: 1880
+    Bucket 17: 1859
+    Bucket 18: 1852
+    Bucket 19: 1860
+    Bucket 20: 1881
+    Bucket 21: 1767
+    Bucket 22: 1862
+    Bucket 23: 1783
+    Bucket 24: 1876
+    Bucket 25: 1877
+    Bucket 26: 1853
+    Bucket 27: 1780
+    Bucket 28: 1854
+    Bucket 29: 1843
+    Bucket 30: 1863
+
+Input File: hw3c.txt
+Number of Integers: 11011
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 332
+    Bucket 2: 358
+    Bucket 3: 365
+    Bucket 4: 362
+    Bucket 5: 364
+    Bucket 6: 415
+    Bucket 7: 383
+    Bucket 8: 374
+    Bucket 9: 395
+    Bucket 10: 383
+    Bucket 11: 361
+    Bucket 12: 345
+    Bucket 13: 389
+    Bucket 14: 338
+    Bucket 15: 370
+    Bucket 16: 338
+    Bucket 17: 348
+    Bucket 18: 363
+    Bucket 19: 358
+    Bucket 20: 370
+    Bucket 21: 367
+    Bucket 22: 353
+    Bucket 23: 395
+    Bucket 24: 384
+    Bucket 25: 385
+    Bucket 26: 336
+    Bucket 27: 350
+    Bucket 28: 365
+    Bucket 29: 368
+    Bucket 30: 397
+
+Bennett Alex Myers
+CS 2050 - Homework 3
+
+HASHING ALGORITHM RESULTS:
+
+Input File: hw3a.txt
+Number of Integers: 10000
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 1001
+    Bucket 2: 1030
+    Bucket 3: 1056
+    Bucket 4: 1006
+    Bucket 5: 1020
+    Bucket 6: 995
+    Bucket 7: 960
+    Bucket 8: 958
+    Bucket 9: 1008
+    Bucket 10: 966
+
+Input File: hw3b.txt
+Number of Integers: 55000
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 5423
+    Bucket 2: 5447
+    Bucket 3: 5422
+    Bucket 4: 5515
+    Bucket 5: 5513
+    Bucket 6: 5534
+    Bucket 7: 5503
+    Bucket 8: 5517
+    Bucket 9: 5481
+    Bucket 10: 5645
+
+Input File: hw3c.txt
+Number of Integers: 11011
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 1060
+    Bucket 2: 1056
+    Bucket 3: 1149
+    Bucket 4: 1084
+    Bucket 5: 1119
+    Bucket 6: 1089
+    Bucket 7: 1081
+    Bucket 8: 1102
+    Bucket 9: 1121
+    Bucket 10: 1150
+
+Input File: hw3a.txt
+Number of Integers: 10000
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 501
+    Bucket 2: 515
+    Bucket 3: 560
+    Bucket 4: 509
+    Bucket 5: 522
+    Bucket 6: 470
+    Bucket 7: 467
+    Bucket 8: 497
+    Bucket 9: 490
+    Bucket 10: 441
+    Bucket 11: 500
+    Bucket 12: 515
+    Bucket 13: 496
+    Bucket 14: 497
+    Bucket 15: 498
+    Bucket 16: 525
+    Bucket 17: 493
+    Bucket 18: 461
+    Bucket 19: 518
+    Bucket 20: 525
+
+Input File: hw3b.txt
+Number of Integers: 55000
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 2639
+    Bucket 2: 2683
+    Bucket 3: 2730
+    Bucket 4: 2728
+    Bucket 5: 2786
+    Bucket 6: 2768
+    Bucket 7: 2693
+    Bucket 8: 2754
+    Bucket 9: 2744
+    Bucket 10: 2799
+    Bucket 11: 2784
+    Bucket 12: 2764
+    Bucket 13: 2692
+    Bucket 14: 2787
+    Bucket 15: 2727
+    Bucket 16: 2766
+    Bucket 17: 2810
+    Bucket 18: 2763
+    Bucket 19: 2737
+    Bucket 20: 2846
+
+Input File: hw3c.txt
+Number of Integers: 11011
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 511
+    Bucket 2: 532
+    Bucket 3: 564
+    Bucket 4: 530
+    Bucket 5: 560
+    Bucket 6: 573
+    Bucket 7: 525
+    Bucket 8: 529
+    Bucket 9: 550
+    Bucket 10: 585
+    Bucket 11: 549
+    Bucket 12: 524
+    Bucket 13: 585
+    Bucket 14: 554
+    Bucket 15: 559
+    Bucket 16: 516
+    Bucket 17: 556
+    Bucket 18: 573
+    Bucket 19: 571
+    Bucket 20: 565
+
+Input File: hw3a.txt
+Number of Integers: 10000
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 359
+    Bucket 2: 345
+    Bucket 3: 376
+    Bucket 4: 348
+    Bucket 5: 346
+    Bucket 6: 354
+    Bucket 7: 303
+    Bucket 8: 349
+    Bucket 9: 346
+    Bucket 10: 308
+    Bucket 11: 293
+    Bucket 12: 328
+    Bucket 13: 348
+    Bucket 14: 314
+    Bucket 15: 329
+    Bucket 16: 345
+    Bucket 17: 348
+    Bucket 18: 300
+    Bucket 19: 330
+    Bucket 20: 328
+    Bucket 21: 349
+    Bucket 22: 357
+    Bucket 23: 332
+    Bucket 24: 344
+    Bucket 25: 345
+    Bucket 26: 296
+    Bucket 27: 309
+    Bucket 28: 309
+    Bucket 29: 332
+    Bucket 30: 330
+
+Input File: hw3b.txt
+Number of Integers: 55000
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 1867
+    Bucket 2: 1798
+    Bucket 3: 1806
+    Bucket 4: 1790
+    Bucket 5: 1820
+    Bucket 6: 1801
+    Bucket 7: 1864
+    Bucket 8: 1811
+    Bucket 9: 1778
+    Bucket 10: 1901
+    Bucket 11: 1789
+    Bucket 12: 1787
+    Bucket 13: 1833
+    Bucket 14: 1849
+    Bucket 15: 1816
+    Bucket 16: 1880
+    Bucket 17: 1859
+    Bucket 18: 1852
+    Bucket 19: 1860
+    Bucket 20: 1881
+    Bucket 21: 1767
+    Bucket 22: 1862
+    Bucket 23: 1783
+    Bucket 24: 1876
+    Bucket 25: 1877
+    Bucket 26: 1853
+    Bucket 27: 1780
+    Bucket 28: 1854
+    Bucket 29: 1843
+    Bucket 30: 1863
+
+Input File: hw3c.txt
+Number of Integers: 11011
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 332
+    Bucket 2: 358
+    Bucket 3: 365
+    Bucket 4: 362
+    Bucket 5: 364
+    Bucket 6: 415
+    Bucket 7: 383
+    Bucket 8: 374
+    Bucket 9: 395
+    Bucket 10: 383
+    Bucket 11: 361
+    Bucket 12: 345
+    Bucket 13: 389
+    Bucket 14: 338
+    Bucket 15: 370
+    Bucket 16: 338
+    Bucket 17: 348
+    Bucket 18: 363
+    Bucket 19: 358
+    Bucket 20: 370
+    Bucket 21: 367
+    Bucket 22: 353
+    Bucket 23: 395
+    Bucket 24: 384
+    Bucket 25: 385
+    Bucket 26: 336
+    Bucket 27: 350
+    Bucket 28: 365
+    Bucket 29: 368
+    Bucket 30: 397
+
+Bennett Alex Myers
+CS 2050 - Homework 3
+
+HASHING ALGORITHM RESULTS:
+
+Input File: hw3a.txt
+Number of Integers: 10000
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 1001
+    Bucket 2: 1030
+    Bucket 3: 1056
+    Bucket 4: 1006
+    Bucket 5: 1020
+    Bucket 6: 995
+    Bucket 7: 960
+    Bucket 8: 958
+    Bucket 9: 1008
+    Bucket 10: 966
+
+Input File: hw3b.txt
+Number of Integers: 55000
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 5423
+    Bucket 2: 5447
+    Bucket 3: 5422
+    Bucket 4: 5515
+    Bucket 5: 5513
+    Bucket 6: 5534
+    Bucket 7: 5503
+    Bucket 8: 5517
+    Bucket 9: 5481
+    Bucket 10: 5645
+
+Input File: hw3c.txt
+Number of Integers: 11011
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 1060
+    Bucket 2: 1056
+    Bucket 3: 1149
+    Bucket 4: 1084
+    Bucket 5: 1119
+    Bucket 6: 1089
+    Bucket 7: 1081
+    Bucket 8: 1102
+    Bucket 9: 1121
+    Bucket 10: 1150
+
+Input File: hw3a.txt
+Number of Integers: 10000
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 501
+    Bucket 2: 515
+    Bucket 3: 560
+    Bucket 4: 509
+    Bucket 5: 522
+    Bucket 6: 470
+    Bucket 7: 467
+    Bucket 8: 497
+    Bucket 9: 490
+    Bucket 10: 441
+    Bucket 11: 500
+    Bucket 12: 515
+    Bucket 13: 496
+    Bucket 14: 497
+    Bucket 15: 498
+    Bucket 16: 525
+    Bucket 17: 493
+    Bucket 18: 461
+    Bucket 19: 518
+    Bucket 20: 525
+
+Input File: hw3b.txt
+Number of Integers: 55000
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 2639
+    Bucket 2: 2683
+    Bucket 3: 2730
+    Bucket 4: 2728
+    Bucket 5: 2786
+    Bucket 6: 2768
+    Bucket 7: 2693
+    Bucket 8: 2754
+    Bucket 9: 2744
+    Bucket 10: 2799
+    Bucket 11: 2784
+    Bucket 12: 2764
+    Bucket 13: 2692
+    Bucket 14: 2787
+    Bucket 15: 2727
+    Bucket 16: 2766
+    Bucket 17: 2810
+    Bucket 18: 2763
+    Bucket 19: 2737
+    Bucket 20: 2846
+
+Input File: hw3c.txt
+Number of Integers: 11011
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 511
+    Bucket 2: 532
+    Bucket 3: 564
+    Bucket 4: 530
+    Bucket 5: 560
+    Bucket 6: 573
+    Bucket 7: 525
+    Bucket 8: 529
+    Bucket 9: 550
+    Bucket 10: 585
+    Bucket 11: 549
+    Bucket 12: 524
+    Bucket 13: 585
+    Bucket 14: 554
+    Bucket 15: 559
+    Bucket 16: 516
+    Bucket 17: 556
+    Bucket 18: 573
+    Bucket 19: 571
+    Bucket 20: 565
+
+Input File: hw3a.txt
+Number of Integers: 10000
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 359
+    Bucket 2: 345
+    Bucket 3: 376
+    Bucket 4: 348
+    Bucket 5: 346
+    Bucket 6: 354
+    Bucket 7: 303
+    Bucket 8: 349
+    Bucket 9: 346
+    Bucket 10: 308
+    Bucket 11: 293
+    Bucket 12: 328
+    Bucket 13: 348
+    Bucket 14: 314
+    Bucket 15: 329
+    Bucket 16: 345
+    Bucket 17: 348
+    Bucket 18: 300
+    Bucket 19: 330
+    Bucket 20: 328
+    Bucket 21: 349
+    Bucket 22: 357
+    Bucket 23: 332
+    Bucket 24: 344
+    Bucket 25: 345
+    Bucket 26: 296
+    Bucket 27: 309
+    Bucket 28: 309
+    Bucket 29: 332
+    Bucket 30: 330
+
+Input File: hw3b.txt
+Number of Integers: 55000
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 1867
+    Bucket 2: 1798
+    Bucket 3: 1806
+    Bucket 4: 1790
+    Bucket 5: 1820
+    Bucket 6: 1801
+    Bucket 7: 1864
+    Bucket 8: 1811
+    Bucket 9: 1778
+    Bucket 10: 1901
+    Bucket 11: 1789
+    Bucket 12: 1787
+    Bucket 13: 1833
+    Bucket 14: 1849
+    Bucket 15: 1816
+    Bucket 16: 1880
+    Bucket 17: 1859
+    Bucket 18: 1852
+    Bucket 19: 1860
+    Bucket 20: 1881
+    Bucket 21: 1767
+    Bucket 22: 1862
+    Bucket 23: 1783
+    Bucket 24: 1876
+    Bucket 25: 1877
+    Bucket 26: 1853
+    Bucket 27: 1780
+    Bucket 28: 1854
+    Bucket 29: 1843
+    Bucket 30: 1863
+
+Input File: hw3c.txt
+Number of Integers: 11011
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 332
+    Bucket 2: 358
+    Bucket 3: 365
+    Bucket 4: 362
+    Bucket 5: 364
+    Bucket 6: 415
+    Bucket 7: 383
+    Bucket 8: 374
+    Bucket 9: 395
+    Bucket 10: 383
+    Bucket 11: 361
+    Bucket 12: 345
+    Bucket 13: 389
+    Bucket 14: 338
+    Bucket 15: 370
+    Bucket 16: 338
+    Bucket 17: 348
+    Bucket 18: 363
+    Bucket 19: 358
+    Bucket 20: 370
+    Bucket 21: 367
+    Bucket 22: 353
+    Bucket 23: 395
+    Bucket 24: 384
+    Bucket 25: 385
+    Bucket 26: 336
+    Bucket 27: 350
+    Bucket 28: 365
+    Bucket 29: 368
+    Bucket 30: 397
+

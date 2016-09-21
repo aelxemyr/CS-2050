@@ -1,0 +1,727 @@
+Books With More Than 100 Ratings
+
+Midwives: A Novel by Chris Bohjalian
+Average Rating: 7.73202614379085
+Number of Ratings: 153
+
+Harry Potter and the Prisoner of Azkaban (Book 3) by J. K. Rowling
+Average Rating: 9.04332129963899
+Number of Ratings: 277
+
+The Girls' Guide to Hunting and Fishing by Melissa Bank
+Average Rating: 6.945945945945946
+Number of Ratings: 259
+
+The Joy Luck Club by Amy Tan
+Average Rating: 8.153846153846153
+Number of Ratings: 208
+
+High Fidelity by Nick Hornby
+Average Rating: 8.016
+Number of Ratings: 125
+
+Cradle and All by James Patterson
+Average Rating: 7.2
+Number of Ratings: 105
+
+Little Altars Everywhere: A Novel by Rebecca Wells
+Average Rating: 7.596774193548387
+Number of Ratings: 186
+
+The Testament by John Grisham
+Average Rating: 7.507692307692308
+Number of Ratings: 260
+
+Nickel and Dimed: On (Not) Getting By in America by Barbara Ehrenreich
+Average Rating: 8.258620689655173
+Number of Ratings: 174
+
+Pet Sematary by Stephen King
+Average Rating: 7.921568627450981
+Number of Ratings: 102
+
+The Kitchen God's Wife by Amy Tan
+Average Rating: 8.03448275862069
+Number of Ratings: 116
+
+The Tao of Pooh by Benjamin Hoff
+Average Rating: 8.008849557522124
+Number of Ratings: 113
+
+The Red Tent (Bestselling Backlist) by Anita Diamant
+Average Rating: 8.182767624020888
+Number of Ratings: 383
+
+Message in a Bottle by Nicholas Sparks
+Average Rating: 7.613259668508287
+Number of Ratings: 181
+
+\ by  Is for Outlaw
+Average Rating: 7.444444444444445
+Number of Ratings: 108
+
+The No. 1 Ladies' Detective Agency (Today Show Book Club #8) by Alexander McCall Smith
+Average Rating: 8.049180327868852
+Number of Ratings: 183
+
+The Alienist by Caleb Carr
+Average Rating: 7.746268656716418
+Number of Ratings: 134
+
+Outlander by DIANA GABALDON
+Average Rating: 8.524193548387096
+Number of Ratings: 124
+
+The Divine Secrets of the Ya-Ya Sisterhood: A Novel by Rebecca Wells
+Average Rating: 7.771084337349397
+Number of Ratings: 166
+
+Four Blind Mice by James Patterson
+Average Rating: 8.182692307692308
+Number of Ratings: 104
+
+STONES FROM THE RIVER by Ursula Hegi
+Average Rating: 8.036764705882353
+Number of Ratings: 136
+
+The Color Purple by Alice Walker
+Average Rating: 8.586206896551724
+Number of Ratings: 145
+
+The Smoke Jumper by Nicholas Evans
+Average Rating: 7.416666666666667
+Number of Ratings: 108
+
+Harry Potter and the Sorcerer's Stone (Harry Potter (Paperback)) by J. K. Rowling
+Average Rating: 8.936507936507937
+Number of Ratings: 315
+
+Cold Mountain : A Novel by CHARLES FRAZIER
+Average Rating: 7.776119402985074
+Number of Ratings: 134
+
+A Is for Alibi (Kinsey Millhone Mysteries (Paperback)) by SUE GRAFTON
+Average Rating: 7.637254901960785
+Number of Ratings: 102
+
+A Child Called \ by : One Child's Courage to Survive
+Average Rating: 7.963235294117647
+Number of Ratings: 136
+
+Bridget Jones's Diary by Helen Fielding
+Average Rating: 7.625994694960212
+Number of Ratings: 377
+
+The Hours: A Novel by Michael Cunningham
+Average Rating: 7.627906976744186
+Number of Ratings: 129
+
+Balzac and the Little Chinese Seamstress : A Novel by DAI SIJIE
+Average Rating: 8.03076923076923
+Number of Ratings: 130
+
+Tara Road by Maeve Binchy
+Average Rating: 7.628099173553719
+Number of Ratings: 121
+
+Me Talk Pretty One Day by David Sedaris
+Average Rating: 7.86697247706422
+Number of Ratings: 218
+
+The Notebook by Nicholas Sparks
+Average Rating: 7.897610921501706
+Number of Ratings: 293
+
+About a Boy by Nick Hornby
+Average Rating: 7.861538461538461
+Number of Ratings: 130
+
+The Hobbit : The Enchanting Prelude to The Lord of the Rings by J.R.R. TOLKIEN
+Average Rating: 8.73913043478261
+Number of Ratings: 161
+
+A Map of the World by Jane Hamilton
+Average Rating: 7.025862068965517
+Number of Ratings: 116
+
+The Bridges of Madison County by Robert James Waller
+Average Rating: 7.516483516483516
+Number of Ratings: 182
+
+Dance upon the Air (Three Sisters Island Trilogy) by Nora Roberts
+Average Rating: 8.038095238095238
+Number of Ratings: 105
+
+Watership Down by Richard Adams
+Average Rating: 8.573770491803279
+Number of Ratings: 122
+
+Harry Potter and the Chamber of Secrets (Book 2) by J. K. Rowling
+Average Rating: 8.840490797546012
+Number of Ratings: 326
+
+The Da Vinci Code by Dan Brown
+Average Rating: 8.438524590163935
+Number of Ratings: 488
+
+Airframe by Michael Crichton
+Average Rating: 7.47244094488189
+Number of Ratings: 127
+
+Harry Potter and the Sorcerer's Stone (Book 1) by J. K. Rowling
+Average Rating: 9.0625
+Number of Ratings: 176
+
+She's Come Undone (Oprah's Book Club) by Wally Lamb
+Average Rating: 7.700460829493087
+Number of Ratings: 217
+
+Left Behind: A Novel of the Earth's Last Days (Left Behind No. 1) by Tim Lahaye
+Average Rating: 7.715151515151515
+Number of Ratings: 165
+
+Silence of the Lambs by Thomas Harris
+Average Rating: 8.380165289256198
+Number of Ratings: 121
+
+Snow Falling on Cedars by David Guterson
+Average Rating: 7.822878228782288
+Number of Ratings: 271
+
+The Color of Water: A Black Man's Tribute to His White Mother by James McBride
+Average Rating: 8.252252252252251
+Number of Ratings: 111
+
+ANGELA'S ASHES by Frank McCourt
+Average Rating: 8.360294117647058
+Number of Ratings: 136
+
+Life of Pi by Yann Martel
+Average Rating: 8.080357142857142
+Number of Ratings: 336
+
+Hannibal by Thomas Harris
+Average Rating: 7.138121546961326
+Number of Ratings: 181
+
+The Chamber by John Grisham
+Average Rating: 7.415458937198068
+Number of Ratings: 207
+
+Red Dragon by Thomas Harris
+Average Rating: 7.967032967032967
+Number of Ratings: 182
+
+Sphere by MICHAEL CRICHTON
+Average Rating: 7.4411764705882355
+Number of Ratings: 136
+
+The Catcher in the Rye by J.D. Salinger
+Average Rating: 7.705426356589148
+Number of Ratings: 258
+
+Violets Are Blue by James Patterson
+Average Rating: 7.6
+Number of Ratings: 145
+
+The Bad Beginning (A Series of Unfortunate Events, Book 1) by Lemony Snicket
+Average Rating: 7.471074380165289
+Number of Ratings: 121
+
+Lucky : A Memoir by Alice Sebold
+Average Rating: 8.19548872180451
+Number of Ratings: 133
+
+A Painted House by John Grisham
+Average Rating: 7.338028169014085
+Number of Ratings: 284
+
+The Hundred Secret Senses by Amy Tan
+Average Rating: 7.859504132231405
+Number of Ratings: 121
+
+Animal Farm by George Orwell
+Average Rating: 8.3
+Number of Ratings: 120
+
+Pigs in Heaven by Barbara Kingsolver
+Average Rating: 7.990196078431373
+Number of Ratings: 102
+
+Angels &amp; Demons by Dan Brown
+Average Rating: 8.016129032258064
+Number of Ratings: 310
+
+Along Came a Spider (Alex Cross Novels) by James Patterson
+Average Rating: 8.042372881355933
+Number of Ratings: 118
+
+Pop Goes the Weasel by James Patterson
+Average Rating: 7.545454545454546
+Number of Ratings: 110
+
+Artemis Fowl (Artemis Fowl, Book 1) by Eoin Colfer
+Average Rating: 7.719626168224299
+Number of Ratings: 107
+
+The Lovely Bones: A Novel by Alice Sebold
+Average Rating: 8.185289957567186
+Number of Ratings: 707
+
+Timeline by MICHAEL CRICHTON
+Average Rating: 7.851282051282051
+Number of Ratings: 195
+
+When the Wind Blows by James Patterson
+Average Rating: 7.496062992125984
+Number of Ratings: 127
+
+It by Stephen King
+Average Rating: 8.127450980392156
+Number of Ratings: 102
+
+We Were the Mulvaneys by Joyce Carol Oates
+Average Rating: 7.057553956834532
+Number of Ratings: 139
+
+Divine Secrets of the Ya-Ya Sisterhood: A Novel by Rebecca Wells
+Average Rating: 7.876160990712075
+Number of Ratings: 323
+
+The Nanny Diaries: A Novel by Emma McLaughlin
+Average Rating: 7.43765903307888
+Number of Ratings: 393
+
+Empire Falls by Richard Russo
+Average Rating: 7.636986301369863
+Number of Ratings: 146
+
+The Bonesetter's Daughter by Amy Tan
+Average Rating: 7.987730061349693
+Number of Ratings: 163
+
+Q Is for Quarry by Sue Grafton
+Average Rating: 7.896551724137931
+Number of Ratings: 116
+
+The Summons by John Grisham
+Average Rating: 7.2727272727272725
+Number of Ratings: 308
+
+Wicked: The Life and Times of the Wicked Witch of the West by Gregory Maguire
+Average Rating: 7.871794871794871
+Number of Ratings: 156
+
+The Poisonwood Bible: A Novel by Barbara Kingsolver
+Average Rating: 8.178899082568808
+Number of Ratings: 218
+
+Chocolat by Joanne Harris
+Average Rating: 7.98639455782313
+Number of Ratings: 147
+
+Icy Sparks by Gwyn Hyman Rubio
+Average Rating: 7.27906976744186
+Number of Ratings: 129
+
+While I Was Gone by Sue Miller
+Average Rating: 6.954545454545454
+Number of Ratings: 154
+
+The Last Time They Met : A Novel by Anita Shreve
+Average Rating: 6.859154929577465
+Number of Ratings: 142
+
+Suzanne's Diary for Nicholas by James Patterson
+Average Rating: 7.657894736842105
+Number of Ratings: 228
+
+Hard Eight : A Stephanie Plum Novel (A Stephanie Plum Novel) by Janet Evanovich
+Average Rating: 8.298387096774194
+Number of Ratings: 124
+
+Bridget Jones: The Edge of Reason by Helen Fielding
+Average Rating: 7.521739130434782
+Number of Ratings: 115
+
+Point of Origin by Patricia Daniels Cornwell
+Average Rating: 7.728070175438597
+Number of Ratings: 114
+
+Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson by MITCH ALBOM
+Average Rating: 8.615
+Number of Ratings: 200
+
+The Runaway Jury by JOHN GRISHAM
+Average Rating: 7.74468085106383
+Number of Ratings: 188
+
+The Giver (21st Century Reference) by LOIS LOWRY
+Average Rating: 8.663366336633663
+Number of Ratings: 101
+
+Midnight in the Garden of Good and Evil: A Savannah Story by John Berendt
+Average Rating: 7.794392523364486
+Number of Ratings: 107
+
+To Kill a Mockingbird by Harper Lee
+Average Rating: 8.97752808988764
+Number of Ratings: 267
+
+Seven Up (A Stephanie Plum Novel) by Janet Evanovich
+Average Rating: 8.067164179104477
+Number of Ratings: 134
+
+Black Notice by Patricia Daniels Cornwell
+Average Rating: 7.648854961832061
+Number of Ratings: 131
+
+Seabiscuit: An American Legend by LAURA HILLENBRAND
+Average Rating: 8.473684210526315
+Number of Ratings: 133
+
+Bel Canto: A Novel by Ann Patchett
+Average Rating: 8.150943396226415
+Number of Ratings: 159
+
+Fall On Your Knees (Oprah #45) by Ann-Marie MacDonald
+Average Rating: 7.574803149606299
+Number of Ratings: 127
+
+How to Be Good by Nick Hornby
+Average Rating: 6.7
+Number of Ratings: 150
+
+Insomnia by Stephen King
+Average Rating: 7.920353982300885
+Number of Ratings: 113
+
+The Bean Trees by Barbara Kingsolver
+Average Rating: 8.28125
+Number of Ratings: 192
+
+Summer Sisters by Judy Blume
+Average Rating: 7.5078125
+Number of Ratings: 256
+
+One Door Away from Heaven by Dean R. Koontz
+Average Rating: 7.709923664122138
+Number of Ratings: 131
+
+She's Come Undone (Oprah's Book Club (Paperback)) by Wally Lamb
+Average Rating: 7.531400966183575
+Number of Ratings: 207
+
+Harry Potter and the Goblet of Fire (Book 4) by J. K. Rowling
+Average Rating: 9.125506072874494
+Number of Ratings: 247
+
+The Book of Ruth (Oprah's Book Club (Paperback)) by Jane Hamilton
+Average Rating: 7.4
+Number of Ratings: 115
+
+The Horse Whisperer by Nicholas Evans
+Average Rating: 7.483516483516484
+Number of Ratings: 182
+
+Digital Fortress : A Thriller by Dan Brown
+Average Rating: 7.594202898550725
+Number of Ratings: 138
+
+Mystic River by Dennis Lehane
+Average Rating: 7.924812030075188
+Number of Ratings: 133
+
+A Bend in the Road by Nicholas Sparks
+Average Rating: 7.461538461538462
+Number of Ratings: 156
+
+Jurassic Park by Michael Crichton
+Average Rating: 7.855721393034826
+Number of Ratings: 201
+
+House of Sand and Fog by Andre Dubus III
+Average Rating: 7.363636363636363
+Number of Ratings: 242
+
+Fried Green Tomatoes at the Whistle Stop Cafe by Fannie Flagg
+Average Rating: 8.531746031746032
+Number of Ratings: 126
+
+American Gods by Neil Gaiman
+Average Rating: 8.013245033112582
+Number of Ratings: 151
+
+Girl, Interrupted by SUSANNA KAYSEN
+Average Rating: 7.338983050847458
+Number of Ratings: 118
+
+The Witching Hour (Lives of the Mayfair Witches) by ANNE RICE
+Average Rating: 8.026785714285714
+Number of Ratings: 112
+
+Confessions of a Shopaholic (Summer Display Opportunity) by SOPHIE KINSELLA
+Average Rating: 7.803680981595092
+Number of Ratings: 163
+
+SHIPPING NEWS by Annie Proulx
+Average Rating: 7.720496894409938
+Number of Ratings: 161
+
+The Five People You Meet in Heaven by Mitch Albom
+Average Rating: 8.020491803278688
+Number of Ratings: 244
+
+Dreamcatcher by Stephen King
+Average Rating: 7.186274509803922
+Number of Ratings: 204
+
+The Reader by Bernhard Schlink
+Average Rating: 7.1947368421052635
+Number of Ratings: 190
+
+2nd Chance by James Patterson
+Average Rating: 7.76
+Number of Ratings: 150
+
+The Rescue by Nicholas Sparks
+Average Rating: 7.638461538461539
+Number of Ratings: 130
+
+Angela's Ashes (MMP) : A Memoir by Frank McCourt
+Average Rating: 8.0
+Number of Ratings: 136
+
+The Vampire Lestat (Vampire Chronicles, Book II) by ANNE RICE
+Average Rating: 7.951048951048951
+Number of Ratings: 143
+
+The Poisonwood Bible by Barbara Kingsolver
+Average Rating: 8.348214285714286
+Number of Ratings: 112
+
+The Beach House by James Patterson
+Average Rating: 7.697297297297298
+Number of Ratings: 185
+
+The Street Lawyer by JOHN GRISHAM
+Average Rating: 7.62406015037594
+Number of Ratings: 133
+
+The Cider House Rules by John Irving
+Average Rating: 7.832214765100671
+Number of Ratings: 149
+
+The Client by John Grisham
+Average Rating: 7.883597883597884
+Number of Ratings: 189
+
+A Prayer for Owen Meany by John Irving
+Average Rating: 8.615384615384615
+Number of Ratings: 182
+
+I Know This Much Is True by Wally Lamb
+Average Rating: 8.264150943396226
+Number of Ratings: 106
+
+The Handmaid's Tale by Margaret Atwood
+Average Rating: 8.456
+Number of Ratings: 125
+
+The Golden Compass (His Dark Materials, Book 1) by PHILIP PULLMAN
+Average Rating: 8.4
+Number of Ratings: 160
+
+Stupid White Men ...and Other Sorry Excuses for the State of the Nation! by Michael Moore
+Average Rating: 7.80379746835443
+Number of Ratings: 158
+
+Into the Wild by Jon Krakauer
+Average Rating: 7.977777777777778
+Number of Ratings: 135
+
+The Pelican Brief by John Grisham
+Average Rating: 7.582857142857143
+Number of Ratings: 175
+
+Skipping Christmas by JOHN GRISHAM
+Average Rating: 7.550295857988166
+Number of Ratings: 169
+
+Dolores Claiborne by Stephen King
+Average Rating: 7.423728813559322
+Number of Ratings: 118
+
+Where the Heart Is (Oprah's Book Club (Paperback)) by Billie Letts
+Average Rating: 8.142372881355932
+Number of Ratings: 295
+
+The Hitchhiker's Guide to the Galaxy by Douglas Adams
+Average Rating: 8.529411764705882
+Number of Ratings: 136
+
+1st to Die: A Novel by James Patterson
+Average Rating: 7.711864406779661
+Number of Ratings: 236
+
+Wild Animus by Rich Shapero
+Average Rating: 4.3907056798623065
+Number of Ratings: 581
+
+The Pilot's Wife : A Novel by Anita Shreve
+Average Rating: 7.5036764705882355
+Number of Ratings: 272
+
+A Heartbreaking Work of Staggering Genius by Dave Eggers
+Average Rating: 7.180555555555555
+Number of Ratings: 144
+
+White Oleander : A Novel (Oprah's Book Club) by Janet Fitch
+Average Rating: 7.853801169590644
+Number of Ratings: 171
+
+The Rainmaker by JOHN GRISHAM
+Average Rating: 7.453237410071942
+Number of Ratings: 139
+
+Naked by David Sedaris
+Average Rating: 8.01980198019802
+Number of Ratings: 101
+
+1984 by George Orwell
+Average Rating: 8.784722222222221
+Number of Ratings: 144
+
+The God of Small Things by Arundhati Roy
+Average Rating: 7.661290322580645
+Number of Ratings: 124
+
+Good in Bed by Jennifer Weiner
+Average Rating: 8.044534412955466
+Number of Ratings: 247
+
+The Partner by John Grisham
+Average Rating: 7.673170731707317
+Number of Ratings: 205
+
+Four To Score (A Stephanie Plum Novel) by Janet Evanovich
+Average Rating: 8.135922330097088
+Number of Ratings: 103
+
+Fast Food Nation: The Dark Side of the All-American Meal by Eric Schlosser
+Average Rating: 8.415584415584416
+Number of Ratings: 154
+
+The Secret Life of Bees by Sue Monk Kidd
+Average Rating: 8.47783251231527
+Number of Ratings: 406
+
+Brave New World by Aldous Huxley
+Average Rating: 8.090909090909092
+Number of Ratings: 121
+
+Interview with the Vampire by Anne Rice
+Average Rating: 7.775862068965517
+Number of Ratings: 232
+
+A Time to Kill by JOHN GRISHAM
+Average Rating: 7.95609756097561
+Number of Ratings: 205
+
+The Blind Assassin by Margaret Atwood
+Average Rating: 7.519607843137255
+Number of Ratings: 102
+
+Sophie's World: A Novel About the History of Philosophy by Jostein Gaarder
+Average Rating: 7.784313725490196
+Number of Ratings: 102
+
+Lord of the Flies by William Gerald Golding
+Average Rating: 7.9907407407407405
+Number of Ratings: 108
+
+A Walk to Remember by Nicholas Sparks
+Average Rating: 7.787878787878788
+Number of Ratings: 165
+
+Two for the Dough by Janet Evanovich
+Average Rating: 8.258928571428571
+Number of Ratings: 112
+
+The Perfect Storm : A True Story of Men Against the Sea by Sebastian Junger
+Average Rating: 7.489051094890511
+Number of Ratings: 137
+
+The Firm by John Grisham
+Average Rating: 7.825892857142857
+Number of Ratings: 224
+
+The Green Mile by Stephen King
+Average Rating: 8.526315789473685
+Number of Ratings: 114
+
+A Walk in the Woods: Rediscovering America on the Appalachian Trail (Official Guides to the Appalachian Trail) by Bill Bryson
+Average Rating: 8.20754716981132
+Number of Ratings: 106
+
+Prodigal Summer: A Novel by Barbara Kingsolver
+Average Rating: 8.159420289855072
+Number of Ratings: 138
+
+The Great Gatsby by F. Scott Fitzgerald
+Average Rating: 7.745762711864407
+Number of Ratings: 118
+
+Full House (Janet Evanovich's Full Series) by Janet Evanovich
+Average Rating: 6.920353982300885
+Number of Ratings: 113
+
+Fahrenheit 451 by RAY BRADBURY
+Average Rating: 8.564245810055866
+Number of Ratings: 179
+
+Harry Potter and the Order of the Phoenix (Book 5) by J. K. Rowling
+Average Rating: 9.04739336492891
+Number of Ratings: 211
+
+The Brethren by John Grisham
+Average Rating: 7.519736842105263
+Number of Ratings: 152
+
+Neverwhere by Neil Gaiman
+Average Rating: 8.075342465753424
+Number of Ratings: 146
+
+Into Thin Air : A Personal Account of the Mt. Everest Disaster by JON KRAKAUER
+Average Rating: 8.139072847682119
+Number of Ratings: 151
+
+Misery by Stephen King
+Average Rating: 8.074626865671641
+Number of Ratings: 134
+
+Girl with a Pearl Earring by Tracy Chevalier
+Average Rating: 7.982014388489208
+Number of Ratings: 278
+
+The Alchemist: A Fable About Following Your Dream by Paulo Coelho
+Average Rating: 8.182539682539682
+Number of Ratings: 126
+
+One for the Money (Stephanie Plum Novels (Paperback)) by Janet Evanovich
+Average Rating: 7.940298507462686
+Number of Ratings: 134
+
+White Oleander : A Novel by Janet Fitch
+Average Rating: 7.666666666666667
+Number of Ratings: 177
+
+The Fellowship of the Ring (The Lord of the Rings, Part 1) by J.R.R. TOLKIEN
+Average Rating: 8.83969465648855
+Number of Ratings: 131
+
+Ender's Game (Ender Wiggins Saga (Paperback)) by Orson Scott Card
+Average Rating: 8.920529801324504
+Number of Ratings: 151
+
+Number of Books: 181

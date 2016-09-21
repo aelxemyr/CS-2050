@@ -1,0 +1,55 @@
+# Bennett Alex Myers
+# CS 2050 - Homework 2
+# 10 Feburary 2016
+
+3.5.1 (v3.5.1:37a07cee5969, Dec  6 2015, 01:54:25) [MSC v.1900 64 bit (AMD64)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate homework2.py]
+
+****************** Integer Sorts ******************
+
+Enter the size of array to sort: 5000
+Enter the upper bound for the array: 9999
+Merge sort for Integer array: 0.030018329620361328
+Built-in sort for Integer array: 0.0009882450103759766 
+
+Enter the size of array to sort: 10000
+Enter the upper bound for the array: 99999
+Merge sort for Integer array: 0.06304478645324707
+Built-in sort for Integer array: 0.0030019283294677734 
+
+Enter the size of array to sort: 50000
+Enter the upper bound for the array: 99999
+Merge sort for Integer array: 0.36025452613830566
+Built-in sort for Integer array: 0.018017292022705078 
+
+
+****************** Real Number Sorts ******************
+
+Enter the size of array to sort: 5000
+Merge sort for Real Number array: 0.030020475387573242
+Built-in sort for Real Number array: 0.000990152359008789 
+
+Enter the size of array to sort: 10000
+Merge sort for Real Number array: 0.06304597854614258
+Built-in sort for Real Number array: 0.0020017623901367188 
+
+Enter the size of array to sort: 50000
+Merge sort for Real Number array: 0.3592536449432373
+Built-in sort for Real Number array: 0.015010833740234375 
+
+
+****************** String Sorts ******************
+
+Enter the size of array to sort: 5000
+Merge sort for String array: 0.031021833419799805
+Built-in sort for String array: 0.001005411148071289 
+
+Enter the size of array to sort: 10000
+Merge sort for String array: 0.06404566764831543
+Built-in sort for String array: 0.0030019283294677734 
+
+Enter the size of array to sort: 50000
+Merge sort for String array: 0.3642575740814209
+Built-in sort for String array: 0.020014047622680664 
+

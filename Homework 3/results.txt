@@ -1,0 +1,66 @@
+HASHING ALGORITHM RESULTS:
+
+Input File: test.txt
+Number of Integers: 20
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 3
+    Bucket 2: 2
+    Bucket 3: 1
+    Bucket 4: 2
+    Bucket 5: 0
+    Bucket 6: 2
+    Bucket 7: 4
+    Bucket 8: 2
+    Bucket 9: 1
+    Bucket 10: 3
+
+
+Input File: hw3a.txt
+Number of Integers: 10000
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 1001
+    Bucket 2: 1030
+    Bucket 3: 1056
+    Bucket 4: 1006
+    Bucket 5: 1020
+    Bucket 6: 995
+    Bucket 7: 960
+    Bucket 8: 958
+    Bucket 9: 1008
+    Bucket 10: 966
+
+
+Input File: hw3b.txt
+Number of Integers: 55000
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 5423
+    Bucket 2: 5447
+    Bucket 3: 5422
+    Bucket 4: 5515
+    Bucket 5: 5513
+    Bucket 6: 5534
+    Bucket 7: 5503
+    Bucket 8: 5517
+    Bucket 9: 5481
+    Bucket 10: 5645
+
+
+Input File: hw3c.txt
+Number of Integers: 11011
+Bucket Size Varies
+Distribution of Integers:
+    Bucket 1: 1060
+    Bucket 2: 1056
+    Bucket 3: 1149
+    Bucket 4: 1084
+    Bucket 5: 1119
+    Bucket 6: 1089
+    Bucket 7: 1081
+    Bucket 8: 1102
+    Bucket 9: 1121
+    Bucket 10: 1150
+
+
